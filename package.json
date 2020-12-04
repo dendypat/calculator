@@ -1,0 +1,15 @@
+{
+  "name": "calculator_proj",
+  "version": "1.0.0",
+  "description": "Front-End Library Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run"
+  },
+  "author": "Patience Dendy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "file:bootstrap"
+  }
+}

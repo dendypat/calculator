@@ -1,0 +1,20 @@
+body {
+  background-color: lavender;
+  font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#display {
+  display: flexbox;
+  background-color: black;
+  color: aliceblue;
+  text-align: end;
+}
+
+#buttons_container {
+  background-color: darkgrey;
+  margin: 10px auto;
+}
